@@ -6,11 +6,11 @@ scripts for installing both Pterodactyl Panel & Daemon.
 
 ## Features
 
-- Auto Installation of:
+- **Auto Installation of**:
   - Pterodactyl panel (dependencies, database, cronjob, nginx)
   - Pterodactyl daemon (Docker, NodeJS, systemd)
 
-- Optional Auto Configuration of:
+- **Optional Auto Configuration of**:
   - (Panel) Let's Encrypt certificates
   - (Panel) UFW (firewall for Ubuntu/Debian)
 
